@@ -23,5 +23,6 @@ while True:
   # incrementa o índice
   idx += 1
 
-  print(idx)
+print("Programa encerrado.")
+print("Imagens geradas: ", idx)
 
