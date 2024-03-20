@@ -1,0 +1,7 @@
+# excluir tudo que houver dentro da pasta
+saved/*
+video/*
+
+# manter apenas a pasta (vazia)
+!saved/.gitkeep 
+!video/.gitkeep 
